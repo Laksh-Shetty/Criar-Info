@@ -4,6 +4,10 @@ Criar turns a natural-language website brief into a complete static website. Use
 
 The app also includes Clerk authentication, Prisma/PostgreSQL persistence, project history, contact and partnership forms, Stripe credit packages, and an AI prompt assistant.
 
+## Source Code Access
+
+This repository is private. The source lives at [github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM/tree/laksh) — access can be granted on request for recruiters, collaborators, or reviewers. This README documents the architecture, feature set, and design decisions for anyone evaluating the project without direct repo access.
+
 ## Problem It Solves
 
 Building a first-draft website normally means either hiring a developer, wrestling with a drag-and-drop builder that fights you on custom design, or hand-writing HTML/CSS/JS from a blank file. Criar collapses that gap: a plain-language brief goes in, and a working, styled, responsive site comes out in seconds — previewable immediately, editable through further prompts or a drag-and-drop component panel, and deployable to a live URL without ever leaving the browser. It's aimed at the moment before a "real" build: prototyping an idea, mocking up a client concept, or shipping a small site fast.
@@ -550,6 +554,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-## Source Code Access
 
-This repository is private. The source lives at [github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM/tree/laksh) — access can be granted on request for recruiters, collaborators, or reviewers. This README documents the architecture, feature set, and design decisions for anyone evaluating the project without direct repo access.
