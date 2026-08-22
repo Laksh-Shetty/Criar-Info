@@ -6,14 +6,18 @@ The app also includes Clerk authentication, Prisma/PostgreSQL persistence, proje
 
 ## Problem It Solves
 
-Building a first-draft website normally means either hiring a developer, wrestling with a drag-and-drop builder that fights you on custom design, or hand-writing HTML/CSS/JS from a blank file. Criar collapses that gap: a plain-language brief goes in, and a working, styled, responsive site comes out in seconds — previewable immediately, editable through further prompts or a drag-and-drop component panel, and deployable to a live URL without ever leaving the browser. It's aimed at the moment before a "real" build: prototyping an idea, mocking up a client concept, or shipping a small site fast.
+Building a website normally requires knowing how to code, or paying someone who does. Even drag-and-drop builders expect users to understand layout, styling, and structure to get something that looks good. Criar removes that barrier entirely: someone with zero technical background can describe what they want in plain language — the content, the style, the functionality — and get back a fully built, styled, working website. They can preview it instantly, refine it with more prompts or a simple drag-and-drop component panel, and deploy it live, all without writing a single line of code or touching a code editor.
+
+It also works well as a starting point for developers — generating a solid first draft from a prompt in seconds, which can then be downloaded, handed off, or built on further, instead of starting from a blank file.
 
 ## Source Code Access
 
-This repository is private ([github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM)). To request collaborator access, reach out with your GitHub username via:
+This repository is private ([github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM)). If you're a recruiter, evaluating the project, or interested in collaborating and would like to review the code, I'm happy to share access — just get in touch:
 
 - **LinkedIn**: [linkedin.com/in/laksh-shetty-4bb576307](https://www.linkedin.com/in/laksh-shetty-4bb576307/)
 - **Email**: [lakshshetty206@gmail.com](mailto:lakshshetty206@gmail.com)
+
+If you have a GitHub account, feel free to include your username to speed things along — otherwise, just reach out and I'll help from there.
 
 ## Screenshots
 
