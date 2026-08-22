@@ -552,4 +552,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Source Code Access
 
-This repository is private. The source lives at [github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM) — access can be granted on request for recruiters, collaborators, or reviewers. This README documents the architecture, feature set, and design decisions for anyone evaluating the project without direct repo access.
+This repository is private. The source lives at [github.com/Laksh-Shetty/MPR_TM](https://github.com/Laksh-Shetty/MPR_TM/tree/Laksh) — access can be granted on request for recruiters, collaborators, or reviewers. This README documents the architecture, feature set, and design decisions for anyone evaluating the project without direct repo access.
